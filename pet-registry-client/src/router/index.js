@@ -5,7 +5,8 @@ const routes = [
     {
         path: "/",
         name: "Pet",
-        component: () => import('../components/pet/form/PetForm.vue'),
+        component: () => import('../components/pet/form/ThePetForm.vue'),
+
     },
     {
         path: "/:notFound",
