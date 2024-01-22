@@ -9,6 +9,10 @@ const routes = [
 
     },
     {
+        path: "/vuetify-pet-form",
+        component: () => import('../components/VuetifyPetForm.vue'),
+    },
+    {
         path: "/:notFound",
         component: NotFound,
     },
