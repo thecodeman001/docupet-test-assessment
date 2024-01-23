@@ -25,6 +25,11 @@ Access the applications:
 
     Symfony backend: http://localhost:8000
     Vue.js frontend: http://localhost:8080
+                        
+    Main links: 
+        1. http://localhost:8080 -> Generic Pet Form
+        2. http://localhsot:8080/vuetify-pet-form -> Vuetify Pet Form
+                        
 
 The Vue.js frontend depends on the Symfony backend, so ensure the backend is up and running before accessing the frontend.
 
