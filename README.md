@@ -11,6 +11,7 @@ Getting Started
 
 Clone this repository to your local machine: 
         ```git clone https://github.com/your-username/pet-registry-app.git```
+
 Navigate to the directory
         ```cd docupet-test-assesssment```
 
