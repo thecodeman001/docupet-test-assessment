@@ -3,18 +3,18 @@ Pet Registry App
 This repository contains the source code for a Pet Registry App, consisting of a Symfony backend and a Vue.js frontend.
 Prerequisites
 
-###Before you begin, ensure you have the following installed:
+Before you begin, ensure you have the following installed:
 
 Docker: [Install Docker](https://docs.docker.com/engine/install/)
 
 Getting Started
 
-###Clone this repository to your local machine: 
+Clone this repository to your local machine: 
         ```git clone https://github.com/your-username/pet-registry-app.git```
-###Navigate to the directory
+Navigate to the directory
         ```cd docupet-test-assesssment```
 
-###Build and run the Docker containers:
+Build and run the Docker containers:
 
 ```docker-compose up --build```
 
@@ -27,7 +27,7 @@ Access the applications:
 
 The Vue.js frontend depends on the Symfony backend, so ensure the backend is up and running before accessing the frontend.
 
-###Stop the containers when you're done, you can stop the containers by running:
+Stop the containers when you're done, you can stop the containers by running:
     ```docker-compose down```
 
 Additional Information
